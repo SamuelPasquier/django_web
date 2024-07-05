@@ -1,0 +1,4 @@
+venv
+PachaWebApp
+__pycache__
+db.sqlite3
